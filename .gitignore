@@ -4,3 +4,5 @@ soft/config/window.properties
 soft/config/compiler.properties
 soft/robots/robot.database
 *.class
+
+*.properties
